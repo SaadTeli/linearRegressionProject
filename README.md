@@ -1,6 +1,6 @@
 # linearRegressionProject
 
-# Bike Sharing Demand Prediction
+## Bike Sharing Demand Prediction
 
 ## Project Overview
 This project aims to predict the demand for shared bikes using a multiple linear regression model. The analysis identifies key factors influencing bike demand and helps in making data-driven business decisions.
