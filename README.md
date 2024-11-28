@@ -38,6 +38,6 @@ The dataset contains information on daily bike rentals, weather conditions, and 
 The model effectively predicts bike demand and provides valuable insights for business strategy optimization. Key factors such as weather conditions, seasons, and holidays play a significant role in determining bike rental demand.
 
 ## Files
-- `Bike_Sharing_Demand_Prediction.ipynb`: Jupyter notebook with the complete analysis.
+- `linearRegression.ipynb`: Jupyter notebook with the complete analysis.
 - `Subjective_Questions.pdf`: Answers to the subjective questions.
 - `README.md`: This file summarizing the project.
